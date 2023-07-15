@@ -1,2 +1,2 @@
-# tharot-smartinfo
+# Tharot-smartinfo
 Proyecto Tharot ( aplicación  backend )
